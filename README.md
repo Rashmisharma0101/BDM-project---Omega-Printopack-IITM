@@ -47,8 +47,8 @@
   This dashboard allows quality and operations teams to monitor defects across operators, machines, time, and complexity — 
   and provides insights to implement corrective actions like operator training, process control after water change, and machine calibration.
   
-  **Download PBIX**: [https://github.com/Rashmisharma0101/BDM-project---Omega-Printopack-IITM/blob/main/Analysis_of_Defect%20rate_in_Carton_manfacturing_company.pbix](url)
+  **Download PBIX**: [https://github.com/Rashmisharma0101/BDM-project---Omega-Printopack-IITM/blob/main/Analysis_of_Defect%20rate_in_Carton_manfacturing_company.pbix]
   
-  **Download jpg**:[ https://github.com/Rashmisharma0101/BDM-project---Omega-Printopack-IITM/blob/main/Carton_Defect_Dashboard.jpg](url)
+  **Download jpg**:[ https://github.com/Rashmisharma0101/BDM-project---Omega-Printopack-IITM/blob/main/Carton_Defect_Dashboard.jpg]
   
   Power BI report is not hosted live. Please download `.pbix` and open with Power BI Desktop to explore.
