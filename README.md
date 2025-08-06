@@ -11,9 +11,9 @@
   Power BI, Excel, Jupyter Notebook, Python
   
   **Key Metrics and Insights:**
-  Total Production: 1680 cartons
+  Total Production: 1466 cartons
   
-  Total Defective Cartons: 220 (13.1%)
+  Total Defective Cartons: 220 (~15.0%)
   
   **High-Impact Factors:**
   
@@ -46,3 +46,7 @@
   **Outcome:**
   This dashboard allows quality and operations teams to monitor defects across operators, machines, time, and complexity — 
   and provides insights to implement corrective actions like operator training, process control after water change, and machine calibration.
+  
+  **Download PBIX**: [Click here]
+  
+  Power BI report is not hosted live. Please download `.pbix` and open with Power BI Desktop to explore.
